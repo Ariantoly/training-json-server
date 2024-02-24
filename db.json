@@ -1,7 +1,6 @@
 {
   "api": {
-    "user": {
-      "name": "Bambang",
+    "name": "Bambang",
       "image": "https://th.bing.com/th/id/OIG.MxQxUggA0RKmKdTjwAqw",
       "title": "Quality Assurance at <a target=\"_blank\" href=\"https://www.blibli.com\">Blibli.com</a>",
       "about": "Hi, my name is <b>Bambang</b>",
@@ -26,6 +25,5 @@
       "hobbies": [
         "Watching film", "Football", "Sleep"
       ]
-    }
   }
 }
