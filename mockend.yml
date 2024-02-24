@@ -1,3 +1,0 @@
-models:
-  User:
-    data: [{"name": Richard}]
