@@ -1,0 +1,33 @@
+{
+  "api/user": {
+    "code": 200,
+    "status": "OK",
+    "data": {
+      "name": "Bambang",
+      "image": "https://th.bing.com/th/id/OIG.MxQxUggA0RKmKdTjwAqw",
+      "title": "Quality Assurance at <a target=\"_blank\" href=\"https://www.blibli.com\">Blibli.com</a>",
+      "about": "Hi, my name is <b>Bambang</b>",
+      "skills": [
+        {
+          "name": "Swimming",
+          "score": 5
+        },
+        {
+          "name": "Reading",
+          "score": 7
+        },
+        {
+          "name": "Programming",
+          "score": 9
+        },
+        {
+          "name": "Sleep",
+          "score": 1
+        }
+      ],
+      "hobbies": [
+        "Watching film", "Football", "Sleep"
+      ]
+    }
+  }
+}
