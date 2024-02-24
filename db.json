@@ -1,12 +1,12 @@
 {
-  "api/user": {
+  "user": {
     "code": 200,
     "status": "OK",
     "data": {
-      "name": "Bambang",
+      "name": "Richard",
       "image": "https://th.bing.com/th/id/OIG.MxQxUggA0RKmKdTjwAqw",
       "title": "Quality Assurance at <a target=\"_blank\" href=\"https://www.blibli.com\">Blibli.com</a>",
-      "about": "Hi, my name is <b>Bambang</b>",
+      "about": "Hi, my name is <b>Richard</b>",
       "skills": [
         {
           "name": "Swimming",
