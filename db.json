@@ -1,5 +1,5 @@
 {
-  "api/user": {
+  "user": {
     "code": 200,
     "status": "OK",
     "data": {
